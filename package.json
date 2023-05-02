@@ -1,6 +1,6 @@
 {
-	"author": "Manuel Gardon",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Manuel Gardon",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
